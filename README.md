@@ -1,6 +1,6 @@
 AppleALC292-Custom
 ==================
-AppleALC292 custom for DELL E6540
+AppleALC292 custom for DELL E6540 with layout 14
 #### Installation
 - Download [Lilu.kext](https://github.com/acidanthera/Lilu).
 - Download [AppleALC.kext](https://github.com/acidanthera/AppleALC).
